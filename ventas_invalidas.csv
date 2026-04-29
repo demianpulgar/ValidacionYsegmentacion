@@ -1,0 +1,7 @@
+id,nombre,edad,ciudad,fecha_compra,monto,metodo_pago
+2,Maria Lopez, ,Valparaiso,10/02/2023,15000,efectivo
+3,Carlos Ruiz,30,santiago,2023/03/15,20000,Transferencia
+4,Ana Torres,28,Viña del Mar,2023-04-20, ,tarjeta
+5,Pedro Gomez,45,VALPARAISO,2023-05-05,30000,efectivo
+6,Luis Diaz,150,Santiago,2023-06-01,5000,efectivo
+8, ,35,Santiago,2023-08-10,18000,tarjeta

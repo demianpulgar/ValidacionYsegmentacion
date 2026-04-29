@@ -1,0 +1,5 @@
+id,nombre,edad,ciudad,fecha_compra,monto,metodo_pago
+1,Juan Perez,25,Santiago,2023-01-10,10000,tarjeta
+5,Pedro Gomez,45,VALPARAISO,2023-05-05,30000,efectivo
+7,Sofia Rojas,22,Viña Del Mar,2023-07-12,12000,debito
+9,Diego Soto,27,Valparaiso,2023-13-01,22000,transferencia
